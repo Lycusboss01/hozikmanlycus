@@ -1,12 +1,12 @@
 {
-  "name": "emırhansarac",
+  "name": "emircan",
   "version": "0.0.1",
   "description": "",
   "main": "bot.js",
   "scripts": {
     "test": "node bot.js"
   },
-  "author": "Emirhan",
+  "author": "Emircan",
   "license": "ISC",
   "dependencies": {
     "aliases": "^1.0.0",
